@@ -6,7 +6,7 @@ export default () => (
 
     <Layout>
     Hello world!<Link to="/blog/">blog page</Link>
-    <h1 style={{fontSize:"20px", textTransform:"uppercase", color: "red"}}>hello styling</h1>
+    <h1>hello styling</h1>
     </Layout>
 
 )
