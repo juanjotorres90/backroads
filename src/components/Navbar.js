@@ -1,7 +1,7 @@
 import React from 'react';
 // import "./navbar.css"
 import styles from './navbar.module.css';
-console.log(styles);;
+console.log(styles);
 
 
 const Navbar = () => {
